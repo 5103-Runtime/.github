@@ -1,3 +1,3 @@
-# 5103 - Section 01 - Group 01 - Runtime
+# Runtime — INFO-5103 S01 G01
 
 A collaborative development environment for team Runtime.
